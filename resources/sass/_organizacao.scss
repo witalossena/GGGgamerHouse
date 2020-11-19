@@ -1,0 +1,40 @@
+.title-page {
+    text-transform: capitalize;
+    font-size: 36px;
+    font-weight: 600;
+    color: #fff;
+    text-align: left;
+    margin-top: 3rem;
+    margin-bottom: 1rem;
+}
+
+.subtitle-page {
+    color: #fff;
+    text-transform: capitalize;
+    font-size: 26px;
+    font-weight: 600;
+}
+
+.paragraph-text {
+    color: #fff;
+    line-height: 32px;
+    font-weight: 400;
+    font-size: 18px;
+    opacity: 0.8;
+}
+
+.card-title-h1 {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.subscribed-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.lan-house-image {
+    width: 400px;
+    height: 300px;
+}

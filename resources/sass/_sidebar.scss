@@ -1,0 +1,41 @@
+.sidebar {
+    width: 15%;
+    height: 100%;
+    background-color: $blue;
+    .nav {
+        padding-top: 55px;
+        .nav-item {
+            .nav-link {
+                color: $white;
+                text-transform: capitalize;
+            }
+        }
+    }
+}
+
+.x {
+    border-top: white solid;
+}
+
+.sidebar-right {
+    width: 85%;
+    padding-left: 1.5rem;
+    padding-top: 85px;
+}
+
+.sidebar-wrapper {
+    width: 100%;
+    display: flex;
+    height: 100vh;
+}
+
+.menu-admin {
+    height: 60px;
+    display: flex;
+    align-items: center;
+    .nav-item {
+        .nav-link {
+            color: $black;
+        }
+    }
+}
