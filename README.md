@@ -17,6 +17,8 @@ O site se encontra online em: https://www.gggamerhouse.com.br
 
 ![GGgamerhouse](https://i.imgur.com/CWK192B.png)
 
+![GGgamerhouse](https://i.imgur.com/7TkrHLx.png)
+
 
 
 
