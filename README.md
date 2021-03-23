@@ -6,8 +6,9 @@ O site se encontra online em: https://www.gggamerhouse.com.br
 
 ## Tecnologias usadas neste projeto
 
-* laravel 7
+* Wordpress
 * PHP 7.4
+* CSS
 
 ## Prints do projeto
 
