@@ -1,6 +1,6 @@
 ## Descrição
 
-Sistema de gerenciamento de Campeonato desenvolvido em laravel 7
+Sistema de gerenciamento de Campeonato desenvolvido em wordpress
 
 O site se encontra online em: https://www.gggamerhouse.com.br
 
